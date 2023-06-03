@@ -3,4 +3,3 @@ public class Exam {
         System.out.println("Hello Java");
     }
 }
-
